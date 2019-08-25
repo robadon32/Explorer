@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="description_image_marginT">50dp</dimen>
+    <dimen name="description_text_marginL">40dp</dimen>
+    <dimen name="description_views_marginT">20dp</dimen>
+    <dimen name="list_item_margin">16dp</dimen>
+    <dimen name="list_item_text_marginT">40dp</dimen>
+    <dimen name="list_item_image_dimensions">64dp</dimen>
+    <dimen name="description_image_dimension">300dp</dimen>
+    <dimen name="description_text_width">300dp</dimen>
+    <dimen name="scroll_view_height">237dp</dimen>
+    <dimen name="scroll_view_marginB">70dp</dimen>
+</resources>

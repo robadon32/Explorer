@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:layout_width="@dimen/list_item_image_dimensions"
+        android:layout_height="@dimen/list_item_image_dimensions"
+        android:contentDescription="@string/content_description_description"
+        android:layout_marginTop="@dimen/list_item_margin"
+        android:layout_marginBottom="@dimen/list_item_margin"
+        android:layout_marginLeft="@dimen/list_item_margin"
+        tools:src="@drawable/museum_of_natural_history"
+        android:id="@+id/item_image"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/list_item_margin"
+        android:layout_marginStart="@dimen/list_item_margin"
+        android:layout_marginBottom="@dimen/list_item_margin"
+        android:textSize="@dimen/text_size"
+        android:layout_marginTop="@dimen/list_item_text_marginT"
+        tools:text="Statue Of Liberty"
+        android:id="@+id/item_text" />
+
+</LinearLayout>

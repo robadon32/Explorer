@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Explorer</string>
+
+    <!--Description of photo being viewed-->
+    <string name="content_description_description">photo of selected item</string>
+
+    <!-- Landmark description text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="statue_of_liberty">The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue was dedicated on October 28, 1886.</string>
+    <string name="brooklyn_bridge">The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States. Started in 1869 and completed fourteen years later in 1883, it connects the boroughs of Manhattan and Brooklyn, spanning the East River. It has a main span of 1,595.5 feet (486.3 m) and was the first steel-wire suspension bridge constructed. It was originally called the New York and Brooklyn Bridge and the East River Bridge, but it was later dubbed the Brooklyn Bridge.</string>
+    <string name="central_park">Central Park is an urban park in Manhattan, New York City. It is located between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park South (59th Street) on the south, and Central Park North (110th Street) on the north. Central Park is the most visited urban park in the United States, with 40 million visitors in 2013, and one of the most filmed locations in the world. In terms of area, Central Park is the fifth-largest park in New York City, covering 843 acres (341 ha).</string>
+    <string name="chrysler_building">The Chrysler Building is an Art Deco–style skyscraper located on the East Side of Midtown Manhattan in New York City, at the intersection of 42nd Street and Lexington Avenue in the Turtle Bay neighborhood of Manhattan. At 1,046 feet (318.9 m), the structure was the world\'s tallest building for 11 months before it was surpassed by the Empire State Building in 1931.It is the tallest brick building in the world with a steel framework. As of 2018, the Chrysler is the sixth-tallest building in the city, tied with The New York Times Building.</string>
+    <string name="empire_state_building"><![CDATA[The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. Designed by Shreve, Lamb & Harmon and completed in 1931, the building has a roof height of 1,250 feet (380 m) and stands a total of 1,454 feet (443.2 m) tall, including its antenna. Its name is derived from \"Empire State\", the nickname of New York. As of 2017 the building is the 5th-tallest completed skyscraper in the United States and the 28th-tallest in the world. It is also the 6th-tallest freestanding structure in the Americas.]]></string>
+    <string name="flat_iron_building">The Flatiron Building, originally the Fuller Building,  is a triangular 22-story steel-framed landmarked building located at 175 Fifth Avenue in the borough of Manhattan, New York City, which is considered to be a groundbreaking skyscraper. Upon completion in 1902, it was one of the tallest buildings in the city at 20 floors high  and one of only two skyscrapers north of 14th Street – the other being the Metropolitan Life Insurance Company Tower, one block east. The building sits on a triangular block formed by Fifth Avenue, Broadway, and East 22nd Street – where the building\'s 87-foot (27 m) back end is located – with East 23rd Street grazing the triangle\'s northern (uptown) peak. As with numerous other wedge-shaped buildings, the name \"Flatiron\" derives from its resemblance to a cast-iron clothes iron.</string>
+    <string name="grand_central_station">Grand Central Terminal (GCT; also referred to as Grand Central Station or simply as Grand Central) is a commuter and intercity railroad terminal at 42nd Street and Park Avenue in Midtown Manhattan in New York City, United States. The terminal serves commuters traveling on the Metro-North Railroad to Westchester, Putnam, and Dutchess counties in New York, as well as to Fairfield and New Haven counties in Connecticut. Through recent Amtrak connections, Grand Central is served by the Adirondack, Empire Service, Ethan Allen Express, and Maple Leaf services. The terminal also contains a connection to the New York City Subway at Grand Central–42nd Street.</string>
+    <string name="madison_squre_garden">Madison Square Garden, colloquially known as The Garden or in initials as MSG, is a multi-purpose indoor arena in the New York City borough of Manhattan. Located in Midtown Manhattan between 7th and 8th Avenues from 31st to 33rd Streets, it is situated atop Pennsylvania Station. It is the fourth venue to bear the name \"Madison Square Garden\"; the first two (1879 and 1890) were located on Madison Square, on East 26th Street and Madison Avenue, with the third Madison Square Garden (1925) further uptown at Eighth Avenue and 50th Street.</string>
+    <string name="one_world_trade">One World Trade Center (also known as 1 World Trade Center, 1 WTC or Freedom Tower)is the main building of the rebuilt World Trade Center complex in Lower Manhattan, New York City. It is the tallest building in the Western Hemisphere, and the sixth-tallest in the world. The supertall structure has the same name as the North Tower of the original World Trade Center, which was destroyed in the terrorist attacks of September 11, 2001. The new skyscraper stands on the northwest corner of the 16-acre (6.5 ha) World Trade Center site, on the site of the original 6 World Trade Center. The building is bounded by West Street to the west, Vesey Street to the north, Fulton Street to the south, and Washington Street to the east.</string>
+    <string name="charging_bull">Charging Bull, which is sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands in Bowling Green in the Financial District in Manhattan, New York City. Originally guerrilla art, installed unofficially by Arturo Di Modica, its popularity led to it being a permanent feature. The 7,100-pound (3,200 kg) sculpture stands 11 feet (3.4 m) tall and measures 16 feet (4.9 m) long. The oversize sculpture depicts a bull, the symbol of aggressive financial optimism and prosperity, leaning back on its haunches and with its head lowered as if ready to charge. The sculpture is both a popular tourist destination which draws thousands of people a day, as well as \"one of the most iconic images of New York\" and a \"Wall Street icon\" symbolizing Wall Street and the Financial District.</string>
+
+    <!--Fun description text-->
+    <string name="museum_of_modern_art">The Museum of Modern Art is an art museum located in Midtown Manhattan in New York City, on 53rd Street between Fifth and Sixth Avenues. MoMA has been important in developing and collecting modernist art, and is often identified as one of the largest and most influential museums of modern art in the world. MoMA\'s collection offers an overview of modern and contemporary art, including works of architecture and design, drawing, painting, sculpture, photography, prints, illustrated books and artist\'s books, film, and electronic media.</string>
+    <string name="ripleys_believe_it_or_not">As you meander through over 20 themed galleries spanning two floors, you’ll discover new surprises around every turn. Make sure you bring your camera! There are amazing photo opportunities you won’t find anywhere else! Where else can you take a photo where you’re only half a person, a head in a jar, covered by live cockroaches, or hanging off the top of the Empire State building? You can do all this and more at Ripley’s Believe It or Not! Times Square! So be sure you include Ripley’s when you plan what to see and do in New York.</string>
+    <string name="alladin">Discover a whole new world at ALADDIN, the hit Broadway musical. From the producer of The Lion King comes the timeless story of Aladdin, a thrilling new production filled with unforgettable beauty, magic, comedy and breathtaking spectacle. It’s an extraordinary theatrical event where one lamp and three wishes make the possibilities infinite.</string>
+    <string name="the_lion_king">The Lion King is a musical based on the 1994 Disney animated feature film of the same name with music by Elton John and lyrics by Tim Rice along with the musical score created by Hans Zimmer with choral arrangements by Lebo M. Directed by Julie Taymor, the musical features actors in animal costumes as well as giant, hollow puppets. The show is produced by Disney Theatrical Productions.</string>
+    <string name="big_bus">Ranked TripAdvisor\'s Number 1 New York Hop-On Hop-Off Bus Tour! Our New York bus tours serve up the Big Apple in perfect slices. Hop on to capture panoramic views of icons like the Empire State Building and Brooklyn Bridge. Hop off at any Big Bus stop to discover New York\'s famous neighborhoods and hidden gems.</string>
+    <string name="museum_of_natural_history">The American Museum of Natural History, located on the Upper West Side of Manhattan, New York City, is one of the largest museums in the world. Located in Theodore Roosevelt Park across the street from Central Park, the museum complex comprises 28 interconnected buildings housing 45 permanent exhibition halls, in addition to a planetarium and a library. The museum collections contain over 33 million specimens of plants, animals, fossils, minerals, rocks, meteorites, human remains, and human cultural artifacts, of which only a small fraction can be displayed at any given time, and occupies more than 2 million square feet. The museum has a full-time scientific staff of 225, sponsors over 120 special field expeditions each year, and averages about five million visits annually.</string>
+    <string name="times_square">Times Square is a major commercial intersection, tourist destination, entertainment center and neighborhood in the Midtown Manhattan section of New York City at the junction of Broadway and Seventh Avenue. It stretches from West 42nd to West 47th Streets. Brightly adorned with billboards and advertisements, Times Square is sometimes referred to as \"The Crossroads of the World\", \"The Center of the Universe\", \"the heart of The Great White Way\", and the \"heart of the world\". One of the world\'s busiest pedestrian areas, it is also the hub of the Broadway Theater District and a major center of the world\'s entertainment industry. Times Square is one of the world\'s most visited tourist attractions, drawing an estimated 50 million visitors annually. Approximately 330,000 people pass through Times Square daily, many of them tourists, while over 460,000 pedestrians walk through Times Square on its busiest days</string>
+    <string name="rocafeller_center">Rockefeller Center is a large complex consisting of 19 commercial buildings covering 22 acres between 48th and 51st Streets, facing Fifth Avenue, in New York City. Commissioned by the Rockefeller family, it is located in the center of Midtown Manhattan. The 14 original Art Deco buildings span the area between Fifth and Sixth Avenues, split by a large sunken square and a private street called Rockefeller Plaza. Five International Style buildings, built later, are located on the west side of Sixth Avenue and at the head of Rockefeller Plaza.</string>
+    <string name="brooklyn_bridge_park">Brooklyn Bridge Park is a world-class waterfront park with rolling hills, riverfront promenades, lush gardens, and spectacular city views. Our list of amenities continues to grow as we work each day to revitalize this previously deteriorated industrial space and build a park that allows New Yorkers to rediscover the waterfront.</string>
+
+    <!--Intent URLs when user clicks on hotel item-->
+    <string name="affinia_hotel">http://www.affinia.com</string>
+    <string name="yotel">https://www.yotel.com/en/hotels/yotel-new-york</string>
+    <string name="empire_hotel">https://empirehotelnyc.com/specials/</string>
+    <string name="beacon_hotel">http://www.beaconhotel.com</string>
+    <string name="marquee_hotel">https://www.marriott.com/hotels/travel/nycmq-new-york-marriott-marquis/</string>
+    <string name="the_manhattan">https://www.manhattanhoteltimessquare.com/offers-details/?gclid=CjwKCAjw-dXaBRAEEiwAbwCi5k-IjWPfWV6E7_fMOyW8m3TWOTDHPoo4wrNmRpqaYtW87BJ348VCQhoCP9QQAvD_BwE#free-grab-n-go-breakfast-free-cancellation</string>
+    <string name="the_standard"><![CDATA[http://www.standardhotels.com/new-york/properties/high-line?utm_source=google&utm_campaign=google_my_business&utm_medium=organic]]></string>
+    <string name="sofitel">https://www.accorhotels.com/gb/hotel-2185-sofitel-new-york/index.shtml</string>
+    <string name="casablanca_hotel">https://casablancahotel.com/en/offers.html?gclid=CjwKCAjw-dXaBRAEEiwAbwCi5gqewKxxTzr2PUkAh80uqCZXThIxBOKu7dkJKf-FhC7zYgD3CeNYExoCq0QQAvD_BwE</string>
+    <string name="the_refinery_hotel">https://www.refineryhotelnewyork.com/?gclid=CjwKCAjw-dXaBRAEEiwAbwCi5kJD5iZNysddLt1_xlSIGoomctKduyHJpYgNsxsOg3keLW2H9oNbVRoCii8QAvD_BwE</string>
+    <string name="the_browery_hotel">https://www.theboweryhotel.com/?gclid=CjwKCAjw-dXaBRAEEiwAbwCi5iqaTDCjP8Z1PYDkprBw-oXQIrDnP41POTLom3r8vexgML49SaTQ2hoCdGsQAvD_BwE</string>
+    <string name="the_greenwich_hotel">https://www.thegreenwichhotel.com/</string>
+    <string name="the_plaza_hotel">https://m.fairmont.com/the-plaza-new-york/?utm_referrer=http%3A%2F%2Fwww.google.com%2F</string>
+    <string name="the_w_hotel"><![CDATA[http://m.starwoodhotels.com/whotels/property/overview/index.html?propertyID=1234&SWAQ=958P]]></string>
+
+    <!--Intent URLs when user clicks on restaurant item-->
+    <string name="del_frisco">https://yelp.to/qTKq/HmZqXSCeNO</string>
+    <string name="texas_de_brazil">https://yelp.to/qTKq/lvesymogNO</string>
+    <string name="guadalupe">https://yelp.to/qTKq/lyPw2FAeNO</string>
+    <string name="guantanamera">https://yelp.to/qTKq/JzvaEjpgNO</string>
+    <string name="peter_luger">https://yelp.to/qTKq/JawkuEVeNO</string>
+    <string name="burgers_lobsters">https://yelp.to/qTKq/s1e9k9WeNO</string>
+    <string name="angelos_pizza">https://yelp.to/qTKq/zrzJA3ZeNO</string>
+    <string name="flor_de_mayo">https://yelp.to/qTKq/Z5kUQq1eNO</string>
+    <string name="chirping_chicken">https://yelp.to/qTKq/BNbflX2fNO</string>
+    <string name="spice">https://yelp.to/qTKq/ALA4Bz6fNO</string>
+    <string name="carmines">https://yelp.to/qTKq/rWweQnreNO</string>
+    <string name="the_sea_fire_grill">https://yelp.to/qTKq/yzUBJInfNO</string>
+    <string name="smith_wollensky">https://yelp.to/qTKq/Y2MbNi3eNO</string>
+    <string name="lincoln_ristorante">https://yelp.to/qTKq/1seygd8eNO</string>
+    <string name="tavern_green">https://yelp.to/qTKq/MzzoHObfNO</string>
+    <string name="rosa_mexicano">https://yelp.to/qTKq/ZwGG9LefNO</string>
+
+    <string name="hotel_1">Affinia Hotel</string>
+    <string name="hotel_2">Yotel</string>
+    <string name="hotel_3">Empire Hotel</string>
+    <string name="hotel_4">Hotel Beacon</string>
+    <string name="hotel_5">New York Marriot Marquee</string>
+    <string name="hotel_6">The Manhattan At Times Square Hotel</string>
+    <string name="hotel_7">The Standard Hotel</string>
+    <string name="hotel_8">Sofitel New York</string>
+    <string name="hotel_9">Casablanca Hotel</string>
+    <string name="hotel_10">The Refinery Hotel</string>
+    <string name="hotel_11">The Browery Hotel</string>
+    <string name="hotel_12">The Greenwich Hotel</string>
+    <string name="hotel_13">The Plaza Hotel</string>
+    <string name="hotel_14">W New York</string>
+
+    <string name="activity_1">Museum of Modern Art</string>
+    <string name="activity_2">Ripley\'s Believe It or Not!</string>
+    <string name="activity_3">Alladin</string>
+    <string name="activity_4">The Lion King</string>
+    <string name="activity_5">Big Bus New York</string>
+    <string name="activity_6">Museum of Natural History</string>
+    <string name="activity_7">Times Square</string>
+    <string name="activity_8">Rocafeller Center</string>
+    <string name="activity_9">Brooklyn Bridge</string>
+
+    <string name="landmark_1">Statue of Liberty</string>
+    <string name="landmark_2">Brooklyn Bridge</string>
+    <string name="landmark_3">Central Park</string>
+    <string name="landmark_4">Chrysler Building</string>
+    <string name="landmark_5">Empire State Building</string>
+    <string name="landmark_6">Flat Iron Building</string>
+    <string name="landmark_7">Grand Central Station</string>
+    <string name="landmark_8">Madison Square Garden</string>
+    <string name="landmark_9">One World Trade Center</string>
+    <string name="landmark_10">Charging Bull</string>
+
+    <string name="restaurant_1">Del Frisco Steak House</string>
+    <string name="restaurant_2">Texas De Brazil</string>
+    <string name="restaurant_3">Guadalupe</string>
+    <string name="restaurant_4">Guantanamera</string>
+    <string name="restaurant_5">Peter Luger Steak House</string>
+    <string name="restaurant_6"><![CDATA[Burgers & Lobsters]]></string>
+    <string name="restaurant_7">Angelo\'s Pizza</string>
+    <string name="restaurant_8">Flor de Mayo</string>
+    <string name="restaurant_9">Chirping Chicken</string>
+    <string name="restaurant_10">Spice</string>
+    <string name="restaurant_11">Carmines</string>
+    <string name="restaurant_12">The Sea Fire Grill</string>
+    <string name="restaurant_13"><![CDATA[Smith & Wollensky]]></string>
+    <string name="restaurant_14">Lincoln Ristorante</string>
+    <string name="restaurant_15">Tavern on the Green</string>
+    <string name="restaurant_16">Rosa Mexicano</string>
+
+    <string name="tab_title_1">Landmark</string>
+    <string name="tab_title_2">Fun</string>
+    <string name="tab_title_3">Restaurant</string>
+    <string name="tab_title_4">Hotel</string>
+
+</resources>
